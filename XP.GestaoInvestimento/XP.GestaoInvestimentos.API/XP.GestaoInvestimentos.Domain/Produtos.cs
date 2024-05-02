@@ -1,6 +1,6 @@
 ﻿namespace XP.GestaoInvestimentos.Domain
 {
-    internal class Produto
+    public class Produto
     {
         #region Properties
         public int ID { get; set; }

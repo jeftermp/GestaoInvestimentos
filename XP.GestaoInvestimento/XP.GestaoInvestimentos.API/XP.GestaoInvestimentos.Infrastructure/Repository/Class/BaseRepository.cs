@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Configuration;
 using System.Data;
 using XP.GestaoInvestimentos.Infrastructure.Context;
+using XP.GestaoInvestimentos.Infrastructure.Repository.Interface;
 
 namespace XP.GestaoInvestimentos.Infrastructure.Repository.Class
 {

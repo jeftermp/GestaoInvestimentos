@@ -1,101 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\",
+  "WorkspaceRootPath": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.infrastructure\\repository\\interface\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|solutionrelative:xp.gestaoinvestimentos.infrastructure\\repository\\interface\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.infrastructure\\context\\entityconfig\\produtoentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|solutionrelative:xp.gestaoinvestimentos.infrastructure\\context\\entityconfig\\produtoentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.infrastructure\\repository\\class\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|solutionrelative:xp.gestaoinvestimentos.infrastructure\\repository\\class\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.infrastructure\\context\\investimentocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|solutionrelative:xp.gestaoinvestimentos.infrastructure\\context\\investimentocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|solutionrelative:xp.gestaoinvestimentos.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.api\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|solutionrelative:xp.gestaoinvestimentos.api\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|solutionrelative:xp.gestaoinvestimentos.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B178713-FE12-4343-8EE4-4803178E4A19}|XP.GestaoInvestimentos.UT\\XP.GestaoInvestimentos.UT.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.ut\\authunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B178713-FE12-4343-8EE4-4803178E4A19}|XP.GestaoInvestimentos.UT\\XP.GestaoInvestimentos.UT.csproj|solutionrelative:xp.gestaoinvestimentos.ut\\authunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E990096-0B3B-4934-BF28-8FC03137B1BF}|XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.domain\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E990096-0B3B-4934-BF28-8FC03137B1BF}|XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.domain\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E990096-0B3B-4934-BF28-8FC03137B1BF}|XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj|solutionrelative:xp.gestaoinvestimentos.domain\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.api\\appsettings.api.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|solutionrelative:xp.gestaoinvestimentos.api\\appsettings.api.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.infrastructure\\context\\entityconfig\\clienteentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|solutionrelative:xp.gestaoinvestimentos.infrastructure\\context\\entityconfig\\clienteentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2807894-4A30-479D-AC23-122CF64D03B8}|XP.GestaoInvestimentos.Injector\\XP.GestaoInvestimentos.Injector.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.injector\\dependencyinjector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2807894-4A30-479D-AC23-122CF64D03B8}|XP.GestaoInvestimentos.Injector\\XP.GestaoInvestimentos.Injector.csproj|solutionrelative:xp.gestaoinvestimentos.injector\\dependencyinjector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.infrastructure\\repository\\class\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|solutionrelative:xp.gestaoinvestimentos.infrastructure\\repository\\class\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E990096-0B3B-4934-BF28-8FC03137B1BF}|XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.infrastructure\\repository\\interface\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|solutionrelative:xp.gestaoinvestimentos.infrastructure\\repository\\interface\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E990096-0B3B-4934-BF28-8FC03137B1BF}|XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E990096-0B3B-4934-BF28-8FC03137B1BF}|XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj|solutionrelative:xp.gestaoinvestimentos.domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.api\\appsettings.api.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|solutionrelative:xp.gestaoinvestimentos.api\\appsettings.api.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.infrastructure\\repository\\interface\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|solutionrelative:xp.gestaoinvestimentos.infrastructure\\repository\\interface\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|solutionrelative:xp.gestaoinvestimentos.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.api\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|solutionrelative:xp.gestaoinvestimentos.api\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|solutionrelative:xp.gestaoinvestimentos.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B178713-FE12-4343-8EE4-4803178E4A19}|XP.GestaoInvestimentos.UT\\XP.GestaoInvestimentos.UT.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.ut\\authunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B178713-FE12-4343-8EE4-4803178E4A19}|XP.GestaoInvestimentos.UT\\XP.GestaoInvestimentos.UT.csproj|solutionrelative:xp.gestaoinvestimentos.ut\\authunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2807894-4A30-479D-AC23-122CF64D03B8}|XP.GestaoInvestimentos.Injector\\XP.GestaoInvestimentos.Injector.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.injector\\dependencyinjector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2807894-4A30-479D-AC23-122CF64D03B8}|XP.GestaoInvestimentos.Injector\\XP.GestaoInvestimentos.Injector.csproj|solutionrelative:xp.gestaoinvestimentos.injector\\dependencyinjector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|solutionrelative:xp.gestaoinvestimentos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E990096-0B3B-4934-BF28-8FC03137B1BF}|XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E990096-0B3B-4934-BF28-8FC03137B1BF}|XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E990096-0B3B-4934-BF28-8FC03137B1BF}|XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj|solutionrelative:xp.gestaoinvestimentos.domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|solutionrelative:xp.gestaoinvestimentos.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E990096-0B3B-4934-BF28-8FC03137B1BF}|XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.domain\\auth\\userauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E990096-0B3B-4934-BF28-8FC03137B1BF}|XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.domain\\auth\\userauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E990096-0B3B-4934-BF28-8FC03137B1BF}|XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj|solutionrelative:xp.gestaoinvestimentos.domain\\auth\\userauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E990096-0B3B-4934-BF28-8FC03137B1BF}|XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.domain\\auth\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E990096-0B3B-4934-BF28-8FC03137B1BF}|XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.domain\\auth\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E990096-0B3B-4934-BF28-8FC03137B1BF}|XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj|solutionrelative:xp.gestaoinvestimentos.domain\\auth\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E990096-0B3B-4934-BF28-8FC03137B1BF}|XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.domain\\datataxonomy\\datataxonomy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E990096-0B3B-4934-BF28-8FC03137B1BF}|XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.domain\\datataxonomy\\datataxonomy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E990096-0B3B-4934-BF28-8FC03137B1BF}|XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj|solutionrelative:xp.gestaoinvestimentos.domain\\datataxonomy\\datataxonomy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{673F4712-2E9F-43A3-8AD1-237DBCDCEA78}|XP.GestaoInvestimentos.Services\\XP.GestaoInvestimentos.Services.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.services\\class\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{673F4712-2E9F-43A3-8AD1-237DBCDCEA78}|XP.GestaoInvestimentos.Services\\XP.GestaoInvestimentos.Services.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.services\\class\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{673F4712-2E9F-43A3-8AD1-237DBCDCEA78}|XP.GestaoInvestimentos.Services\\XP.GestaoInvestimentos.Services.csproj|solutionrelative:xp.gestaoinvestimentos.services\\class\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jefte\\AppData\\Roaming\\Microsoft\\UserSecrets\\929c4886-b579-466c-b88b-9a2b1bcf6403\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{673F4712-2E9F-43A3-8AD1-237DBCDCEA78}|XP.GestaoInvestimentos.Services\\XP.GestaoInvestimentos.Services.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.services\\interface\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{673F4712-2E9F-43A3-8AD1-237DBCDCEA78}|XP.GestaoInvestimentos.Services\\XP.GestaoInvestimentos.Services.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.services\\interface\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{673F4712-2E9F-43A3-8AD1-237DBCDCEA78}|XP.GestaoInvestimentos.Services\\XP.GestaoInvestimentos.Services.csproj|solutionrelative:xp.gestaoinvestimentos.services\\interface\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.api\\controllers\\investimentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.api\\controllers\\investimentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDE92924-5510-4ABF-BBDA-F991B59342FE}|XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API.csproj|solutionrelative:xp.gestaoinvestimentos.api\\controllers\\investimentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.infrastructure\\repository\\interface\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|solutionrelative:xp.gestaoinvestimentos.infrastructure\\repository\\interface\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.infrastructure\\repository\\class\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.infrastructure\\repository\\class\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|solutionrelative:xp.gestaoinvestimentos.infrastructure\\repository\\class\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E990096-0B3B-4934-BF28-8FC03137B1BF}|XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.domain\\xp.gestaoinvestimentos.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0E990096-0B3B-4934-BF28-8FC03137B1BF}|XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj|c:\\projetos\\asp.net\\gestaoinvestimento\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.domain\\xp.gestaoinvestimentos.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0E990096-0B3B-4934-BF28-8FC03137B1BF}|XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj|solutionrelative:xp.gestaoinvestimentos.domain\\xp.gestaoinvestimentos.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|d:\\projects\\asp.net\\studies\\gestaoinvestimentos\\xp.gestaoinvestimento\\xp.gestaoinvestimentos.api\\xp.gestaoinvestimentos.infrastructure\\context\\investimentocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}|XP.GestaoInvestimentos.Infrastructure\\XP.GestaoInvestimentos.Infrastructure.csproj|solutionrelative:xp.gestaoinvestimentos.infrastructure\\context\\investimentocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -105,19 +113,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 126,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Repository\\Class\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Infrastructure\\Repository\\Class\\BaseRepository.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Repository\\Class\\BaseRepository.cs",
+              "RelativeToolTip": "XP.GestaoInvestimentos.Infrastructure\\Repository\\Class\\BaseRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvxUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T22:40:51.934Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoEntityConfig.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Context\\EntityConfig\\ProdutoEntityConfig.cs",
+              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Infrastructure\\Context\\EntityConfig\\ProdutoEntityConfig.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Context\\EntityConfig\\ProdutoEntityConfig.cs",
+              "RelativeToolTip": "XP.GestaoInvestimentos.Infrastructure\\Context\\EntityConfig\\ProdutoEntityConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:26:00.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteEntityConfig.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Context\\EntityConfig\\ClienteEntityConfig.cs",
+              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Infrastructure\\Context\\EntityConfig\\ClienteEntityConfig.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Context\\EntityConfig\\ClienteEntityConfig.cs",
+              "RelativeToolTip": "XP.GestaoInvestimentos.Infrastructure\\Context\\EntityConfig\\ClienteEntityConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:19:38.235Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
               "$type": "Bookmark",
@@ -604,299 +644,329 @@
               "Name": "ST:131:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "IBaseRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Repository\\Interface\\IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Repository\\Interface\\IBaseRepository.cs",
               "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Infrastructure\\Repository\\Interface\\IBaseRepository.cs",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Repository\\Interface\\IBaseRepository.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Repository\\Interface\\IBaseRepository.cs",
               "RelativeToolTip": "XP.GestaoInvestimentos.Infrastructure\\Repository\\Interface\\IBaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T22:42:22.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Repository\\Class\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Infrastructure\\Repository\\Class\\BaseRepository.cs",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Repository\\Class\\BaseRepository.cs",
-              "RelativeToolTip": "XP.GestaoInvestimentos.Infrastructure\\Repository\\Class\\BaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T22:40:51.934Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Produtos.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\Produtos.cs",
-              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Domain\\Produtos.cs",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\Produtos.cs",
-              "RelativeToolTip": "XP.GestaoInvestimentos.Domain\\Produtos.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBsAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T19:42:20.213Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthUnitTest.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.UT\\AuthUnitTest.cs",
-              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.UT\\AuthUnitTest.cs",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.UT\\AuthUnitTest.cs",
-              "RelativeToolTip": "XP.GestaoInvestimentos.UT\\AuthUnitTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T16:11:15.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.API\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "XP.GestaoInvestimentos.API\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T16:07:04.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProdutoController.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Controllers\\ProdutoController.cs",
-              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.API\\Controllers\\ProdutoController.cs",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Controllers\\ProdutoController.cs",
-              "RelativeToolTip": "XP.GestaoInvestimentos.API\\Controllers\\ProdutoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T16:14:48.558Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.API\\Controllers\\ClienteController.cs",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "XP.GestaoInvestimentos.API\\Controllers\\ClienteController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T16:14:23.522Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DependencyInjector.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Injector\\DependencyInjector.cs",
-              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Injector\\DependencyInjector.cs",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Injector\\DependencyInjector.cs",
-              "RelativeToolTip": "XP.GestaoInvestimentos.Injector\\DependencyInjector.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowCIAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T16:18:57.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\Cliente.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\Cliente.cs",
               "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Domain\\Cliente.cs",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\Cliente.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\Cliente.cs",
               "RelativeToolTip": "XP.GestaoInvestimentos.Domain\\Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAoAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T19:10:41.448Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Program.cs",
-              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.API\\Program.cs",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Program.cs",
-              "RelativeToolTip": "XP.GestaoInvestimentos.API\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T16:46:51.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\Usuario.cs",
-              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Domain\\Usuario.cs",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\Usuario.cs",
-              "RelativeToolTip": "XP.GestaoInvestimentos.Domain\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T17:14:47.807Z"
+              "WhenOpened": "2024-05-01T19:10:41.448Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "appsettings.API.json",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\appsettings.API.json",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\appsettings.API.json",
               "RelativeDocumentMoniker": "XP.GestaoInvestimentos.API\\appsettings.API.json",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\appsettings.API.json",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\appsettings.API.json",
               "RelativeToolTip": "XP.GestaoInvestimentos.API\\appsettings.API.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-01T17:09:41.361Z"
+              "WhenOpened": "2024-05-01T17:09:41.361Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AuthenticateResponse.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\Auth\\AuthenticateResponse.cs",
-              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Domain\\Auth\\AuthenticateResponse.cs",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\Auth\\AuthenticateResponse.cs",
-              "RelativeToolTip": "XP.GestaoInvestimentos.Domain\\Auth\\AuthenticateResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAKAAAA",
+              "DocumentIndex": 1,
+              "Title": "InvestimentoContext.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Context\\InvestimentoContext.cs",
+              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Infrastructure\\Context\\InvestimentoContext.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Context\\InvestimentoContext.cs",
+              "RelativeToolTip": "XP.GestaoInvestimentos.Infrastructure\\Context\\InvestimentoContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBAAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T17:13:28.471Z"
+              "WhenOpened": "2024-05-01T16:00:42.759Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserAuth.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\Auth\\UserAuth.cs",
-              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Domain\\Auth\\UserAuth.cs",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\Auth\\UserAuth.cs",
-              "RelativeToolTip": "XP.GestaoInvestimentos.Domain\\Auth\\UserAuth.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "DocumentIndex": 2,
+              "Title": "Produtos.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\Produtos.cs",
+              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Domain\\Produtos.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\Produtos.cs",
+              "RelativeToolTip": "XP.GestaoInvestimentos.Domain\\Produtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T15:51:18.841Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Startup.cs",
-              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.API\\Startup.cs",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Startup.cs",
-              "RelativeToolTip": "XP.GestaoInvestimentos.API\\Startup.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T16:47:52.464Z"
+              "WhenOpened": "2024-05-01T19:42:20.213Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "DataTaxonomy.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\DataTaxonomy\\DataTaxonomy.cs",
-              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Domain\\DataTaxonomy\\DataTaxonomy.cs",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\DataTaxonomy\\DataTaxonomy.cs",
-              "RelativeToolTip": "XP.GestaoInvestimentos.Domain\\DataTaxonomy\\DataTaxonomy.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAowBUAAAAOAAAA",
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\Usuario.cs",
+              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Domain\\Usuario.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\Usuario.cs",
+              "RelativeToolTip": "XP.GestaoInvestimentos.Domain\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T18:05:13.973Z"
+              "WhenOpened": "2024-05-01T17:14:47.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Program.cs",
+              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.API\\Program.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Program.cs",
+              "RelativeToolTip": "XP.GestaoInvestimentos.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:46:51.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DependencyInjector.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Injector\\DependencyInjector.cs",
+              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Injector\\DependencyInjector.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Injector\\DependencyInjector.cs",
+              "RelativeToolTip": "XP.GestaoInvestimentos.Injector\\DependencyInjector.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:18:57.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.API\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "XP.GestaoInvestimentos.API\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:14:23.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Repository\\Interface\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Infrastructure\\Repository\\Interface\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Repository\\Interface\\IUsuarioRepository.cs",
+              "RelativeToolTip": "XP.GestaoInvestimentos.Infrastructure\\Repository\\Interface\\IUsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:59:40.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.API\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "XP.GestaoInvestimentos.API\\Controllers\\ProdutoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:14:48.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.API\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "XP.GestaoInvestimentos.API\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:07:04.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthUnitTest.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.UT\\AuthUnitTest.cs",
+              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.UT\\AuthUnitTest.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.UT\\AuthUnitTest.cs",
+              "RelativeToolTip": "XP.GestaoInvestimentos.UT\\AuthUnitTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:11:15.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthenticateResponse.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\Auth\\AuthenticateResponse.cs",
+              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Domain\\Auth\\AuthenticateResponse.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\Auth\\AuthenticateResponse.cs",
+              "RelativeToolTip": "XP.GestaoInvestimentos.Domain\\Auth\\AuthenticateResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:13:28.471Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "UserAuth.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\Auth\\UserAuth.cs",
+              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Domain\\Auth\\UserAuth.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\Auth\\UserAuth.cs",
+              "RelativeToolTip": "XP.GestaoInvestimentos.Domain\\Auth\\UserAuth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:51:18.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Startup.cs",
+              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.API\\Startup.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Startup.cs",
+              "RelativeToolTip": "XP.GestaoInvestimentos.API\\Startup.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:47:52.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataTaxonomy.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\DataTaxonomy\\DataTaxonomy.cs",
+              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Domain\\DataTaxonomy\\DataTaxonomy.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\DataTaxonomy\\DataTaxonomy.cs",
+              "RelativeToolTip": "XP.GestaoInvestimentos.Domain\\DataTaxonomy\\DataTaxonomy.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:05:13.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\jefte\\AppData\\Roaming\\Microsoft\\UserSecrets\\929c4886-b579-466c-b88b-9a2b1bcf6403\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\jefte\\AppData\\Roaming\\Microsoft\\UserSecrets\\929c4886-b579-466c-b88b-9a2b1bcf6403\\secrets.json",
               "ToolTip": "C:\\Users\\jefte\\AppData\\Roaming\\Microsoft\\UserSecrets\\929c4886-b579-466c-b88b-9a2b1bcf6403\\secrets.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\jefte\\AppData\\Roaming\\Microsoft\\UserSecrets\\929c4886-b579-466c-b88b-9a2b1bcf6403\\secrets.json",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-05-01T17:27:07.368Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "UsuarioService.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Services\\Class\\UsuarioService.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Services\\Class\\UsuarioService.cs",
               "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Services\\Class\\UsuarioService.cs",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Services\\Class\\UsuarioService.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Services\\Class\\UsuarioService.cs",
               "RelativeToolTip": "XP.GestaoInvestimentos.Services\\Class\\UsuarioService.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAMwCkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T15:54:01.86Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IUsuarioService.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Services\\Interface\\IUsuarioService.cs",
-              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Services\\Interface\\IUsuarioService.cs",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Services\\Interface\\IUsuarioService.cs",
-              "RelativeToolTip": "XP.GestaoInvestimentos.Services\\Interface\\IUsuarioService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T15:57:59.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "InvestimentoController.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Controllers\\InvestimentoController.cs",
-              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.API\\Controllers\\InvestimentoController.cs",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Controllers\\InvestimentoController.cs",
-              "RelativeToolTip": "XP.GestaoInvestimentos.API\\Controllers\\InvestimentoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T16:15:07.422Z"
+              "WhenOpened": "2024-05-01T15:54:01.86Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "XP.GestaoInvestimentos.Domain.csproj",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj",
-              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj",
-              "RelativeToolTip": "XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-01T16:00:57.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Repository\\Interface\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Infrastructure\\Repository\\Interface\\IUsuarioRepository.cs",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Repository\\Interface\\IUsuarioRepository.cs",
-              "RelativeToolTip": "XP.GestaoInvestimentos.Infrastructure\\Repository\\Interface\\IUsuarioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Services\\Interface\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Services\\Interface\\IUsuarioService.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Services\\Interface\\IUsuarioService.cs",
+              "RelativeToolTip": "XP.GestaoInvestimentos.Services\\Interface\\IUsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T15:59:40.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Repository\\Class\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Infrastructure\\Repository\\Class\\UsuarioRepository.cs",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Repository\\Class\\UsuarioRepository.cs",
-              "RelativeToolTip": "XP.GestaoInvestimentos.Infrastructure\\Repository\\Class\\UsuarioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T15:53:35.004Z"
+              "WhenOpened": "2024-05-01T15:57:59.338Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "InvestimentoContext.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Context\\InvestimentoContext.cs",
-              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Infrastructure\\Context\\InvestimentoContext.cs",
-              "ToolTip": "D:\\Projects\\ASP.NET\\Studies\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Context\\InvestimentoContext.cs",
-              "RelativeToolTip": "XP.GestaoInvestimentos.Infrastructure\\Context\\InvestimentoContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Title": "InvestimentoController.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Controllers\\InvestimentoController.cs",
+              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.API\\Controllers\\InvestimentoController.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.API\\Controllers\\InvestimentoController.cs",
+              "RelativeToolTip": "XP.GestaoInvestimentos.API\\Controllers\\InvestimentoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T16:00:42.759Z"
+              "WhenOpened": "2024-05-01T16:15:07.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "XP.GestaoInvestimentos.Domain.csproj",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj",
+              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj",
+              "RelativeToolTip": "XP.GestaoInvestimentos.Domain\\XP.GestaoInvestimentos.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-01T16:00:57.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Repository\\Class\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "XP.GestaoInvestimentos.Infrastructure\\Repository\\Class\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Projetos\\ASP.NET\\GestaoInvestimento\\GestaoInvestimentos\\XP.GestaoInvestimento\\XP.GestaoInvestimentos.API\\XP.GestaoInvestimentos.Infrastructure\\Repository\\Class\\UsuarioRepository.cs",
+              "RelativeToolTip": "XP.GestaoInvestimentos.Infrastructure\\Repository\\Class\\UsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:53:35.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1279537988:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }
