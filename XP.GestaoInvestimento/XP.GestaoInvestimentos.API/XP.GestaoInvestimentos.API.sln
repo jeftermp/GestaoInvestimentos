@@ -12,7 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00-Documentos", "00-Documen
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Domain", "01-Domain", "{3549BD4C-8AE8-43D7-96F2-5470C0D6808D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XP.GestaoInvestimentos.Domain", "XP.GestaoInvestimentos.Domain\XP.GestaoInvestimentos.Domain.csproj", "{0E990096-0B3B-4934-BF28-8FC03137B1BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XP.GestaoInvestimentos.Domain", "XP.GestaoInvestimentos.Domain\XP.GestaoInvestimentos.Domain.csproj", "{0E990096-0B3B-4934-BF28-8FC03137B1BF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Infrastructure", "02-Infrastructure", "{827AD63F-C54F-4FC9-84A9-858E42E28B5F}"
 EndProject
@@ -24,22 +24,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{244E4B67-8DF
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WorkerService", "WorkerService", "{E2DBAA9A-41AC-485B-914E-021AC6DD7BBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XP.GestaoInvestimentos.Infrastructure", "XP.GestaoInvestimentos.Infrastructure\XP.GestaoInvestimentos.Infrastructure.csproj", "{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XP.GestaoInvestimentos.Infrastructure", "XP.GestaoInvestimentos.Infrastructure\XP.GestaoInvestimentos.Infrastructure.csproj", "{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XP.GestaoInvestimentos.Services", "XP.GestaoInvestimentos.Services\XP.GestaoInvestimentos.Services.csproj", "{673F4712-2E9F-43A3-8AD1-237DBCDCEA78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XP.GestaoInvestimentos.Services", "XP.GestaoInvestimentos.Services\XP.GestaoInvestimentos.Services.csproj", "{673F4712-2E9F-43A3-8AD1-237DBCDCEA78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XP.NoticaProdutos.Service", "XP.NoticaProdutos.Service\XP.NoticaProdutos.Service.csproj", "{8EC4F765-3F0A-4E67-8AED-9BCA4A9134F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XP.NoticaProdutos.Service", "XP.NoticaProdutos.Service\XP.NoticaProdutos.Service.csproj", "{8EC4F765-3F0A-4E67-8AED-9BCA4A9134F4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05-UnitTests", "05-UnitTests", "{589ABC92-3D5C-442A-8EE3-6F3F6D33C66B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XP.GestaoInvestimentos.UT", "XP.GestaoInvestimentos.UT\XP.GestaoInvestimentos.UT.csproj", "{6B178713-FE12-4343-8EE4-4803178E4A19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XP.GestaoInvestimentos.UT", "XP.GestaoInvestimentos.UT\XP.GestaoInvestimentos.UT.csproj", "{6B178713-FE12-4343-8EE4-4803178E4A19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XP.GestaoInvestimentos.Injector", "XP.GestaoInvestimentos.Injector\XP.GestaoInvestimentos.Injector.csproj", "{D2807894-4A30-479D-AC23-122CF64D03B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XP.GestaoInvestimentos.Injector", "XP.GestaoInvestimentos.Injector\XP.GestaoInvestimentos.Injector.csproj", "{D2807894-4A30-479D-AC23-122CF64D03B8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{15F7365F-64BE-480E-AD94-05327A09F5E1}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\..\..\..\Users\Jefter\Documents\Work\deveres\Studies\XP.INC\CREATE_Clientes.sql = ..\..\..\..\..\Users\Jefter\Documents\Work\deveres\Studies\XP.INC\CREATE_Clientes.sql
 		..\..\..\..\..\Users\Jefter\Documents\Work\deveres\Studies\XP.INC\CREATE_Produtos.sql = ..\..\..\..\..\Users\Jefter\Documents\Work\deveres\Studies\XP.INC\CREATE_Produtos.sql
+		..\..\..\..\..\..\Users\Jefter\Documents\Work\deveres\Studies\XP.INC\ProductsRows.sql = ..\..\..\..\..\..\Users\Jefter\Documents\Work\deveres\Studies\XP.INC\ProductsRows.sql
 	EndProjectSection
 EndProject
 Global
