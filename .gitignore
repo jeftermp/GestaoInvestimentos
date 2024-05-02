@@ -273,3 +273,7 @@ e2e/*.map
 .DS_Store/
 
 # End of https://www.gitignore.io/api/angular
+/XP.GestaoInvestimento/XP.GestaoInvestimentos.API/.vs/ProjectEvaluation/xp.gestaoinvestimentos.api.metadata.v7.bin
+/XP.GestaoInvestimento/XP.GestaoInvestimentos.API/.vs/ProjectEvaluation/xp.gestaoinvestimentos.api.projects.v7.bin
+/XP.GestaoInvestimento/XP.GestaoInvestimentos.API/.vs/XP.GestaoInvestimentos.API/DesignTimeBuild/.dtbcache.v2
+/XP.GestaoInvestimento/XP.GestaoInvestimentos.API/.vs/XP.GestaoInvestimentos.API/v17/.futdcache.v2
