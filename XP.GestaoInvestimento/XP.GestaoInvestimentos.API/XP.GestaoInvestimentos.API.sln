@@ -1,0 +1,98 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XP.GestaoInvestimentos.API", "XP.GestaoInvestimentos.API\XP.GestaoInvestimentos.API.csproj", "{FDE92924-5510-4ABF-BBDA-F991B59342FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00-Documentos", "00-Documentos", "{EEF0A02B-AE2A-4BFC-B833-6837A0AE946A}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Users\Jefter\Documents\Work\deveres\Studies\XP.INC\EspecificaçãoÁgil_GestaoInvestimentos.docx = ..\..\..\..\..\Users\Jefter\Documents\Work\deveres\Studies\XP.INC\EspecificaçãoÁgil_GestaoInvestimentos.docx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Domain", "01-Domain", "{3549BD4C-8AE8-43D7-96F2-5470C0D6808D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XP.GestaoInvestimentos.Domain", "XP.GestaoInvestimentos.Domain\XP.GestaoInvestimentos.Domain.csproj", "{0E990096-0B3B-4934-BF28-8FC03137B1BF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Infrastructure", "02-Infrastructure", "{827AD63F-C54F-4FC9-84A9-858E42E28B5F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-Services", "03-Services", "{ED85A374-C5F1-4A7E-8BAF-42DB1FF728BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-Presentation", "04-Presentation", "{3B063CCE-0774-4D34-AA38-5D90E347A458}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{244E4B67-8DF8-408B-9F11-D35FA8BF2B82}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WorkerService", "WorkerService", "{E2DBAA9A-41AC-485B-914E-021AC6DD7BBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XP.GestaoInvestimentos.Infrastructure", "XP.GestaoInvestimentos.Infrastructure\XP.GestaoInvestimentos.Infrastructure.csproj", "{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XP.GestaoInvestimentos.Services", "XP.GestaoInvestimentos.Services\XP.GestaoInvestimentos.Services.csproj", "{673F4712-2E9F-43A3-8AD1-237DBCDCEA78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XP.NoticaProdutos.Service", "XP.NoticaProdutos.Service\XP.NoticaProdutos.Service.csproj", "{8EC4F765-3F0A-4E67-8AED-9BCA4A9134F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05-UnitTests", "05-UnitTests", "{589ABC92-3D5C-442A-8EE3-6F3F6D33C66B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XP.GestaoInvestimentos.UT", "XP.GestaoInvestimentos.UT\XP.GestaoInvestimentos.UT.csproj", "{6B178713-FE12-4343-8EE4-4803178E4A19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XP.GestaoInvestimentos.Injector", "XP.GestaoInvestimentos.Injector\XP.GestaoInvestimentos.Injector.csproj", "{D2807894-4A30-479D-AC23-122CF64D03B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{15F7365F-64BE-480E-AD94-05327A09F5E1}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Users\Jefter\Documents\Work\deveres\Studies\XP.INC\CREATE_Clientes.sql = ..\..\..\..\..\Users\Jefter\Documents\Work\deveres\Studies\XP.INC\CREATE_Clientes.sql
+		..\..\..\..\..\Users\Jefter\Documents\Work\deveres\Studies\XP.INC\CREATE_Produtos.sql = ..\..\..\..\..\Users\Jefter\Documents\Work\deveres\Studies\XP.INC\CREATE_Produtos.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDE92924-5510-4ABF-BBDA-F991B59342FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE92924-5510-4ABF-BBDA-F991B59342FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE92924-5510-4ABF-BBDA-F991B59342FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE92924-5510-4ABF-BBDA-F991B59342FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E990096-0B3B-4934-BF28-8FC03137B1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E990096-0B3B-4934-BF28-8FC03137B1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E990096-0B3B-4934-BF28-8FC03137B1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E990096-0B3B-4934-BF28-8FC03137B1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{673F4712-2E9F-43A3-8AD1-237DBCDCEA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{673F4712-2E9F-43A3-8AD1-237DBCDCEA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{673F4712-2E9F-43A3-8AD1-237DBCDCEA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{673F4712-2E9F-43A3-8AD1-237DBCDCEA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EC4F765-3F0A-4E67-8AED-9BCA4A9134F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC4F765-3F0A-4E67-8AED-9BCA4A9134F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC4F765-3F0A-4E67-8AED-9BCA4A9134F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC4F765-3F0A-4E67-8AED-9BCA4A9134F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B178713-FE12-4343-8EE4-4803178E4A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B178713-FE12-4343-8EE4-4803178E4A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B178713-FE12-4343-8EE4-4803178E4A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B178713-FE12-4343-8EE4-4803178E4A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2807894-4A30-479D-AC23-122CF64D03B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2807894-4A30-479D-AC23-122CF64D03B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2807894-4A30-479D-AC23-122CF64D03B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2807894-4A30-479D-AC23-122CF64D03B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FDE92924-5510-4ABF-BBDA-F991B59342FE} = {244E4B67-8DF8-408B-9F11-D35FA8BF2B82}
+		{0E990096-0B3B-4934-BF28-8FC03137B1BF} = {3549BD4C-8AE8-43D7-96F2-5470C0D6808D}
+		{244E4B67-8DF8-408B-9F11-D35FA8BF2B82} = {3B063CCE-0774-4D34-AA38-5D90E347A458}
+		{E2DBAA9A-41AC-485B-914E-021AC6DD7BBF} = {3B063CCE-0774-4D34-AA38-5D90E347A458}
+		{6DF5ADBD-5DBD-4A6E-B067-9812A309B64E} = {827AD63F-C54F-4FC9-84A9-858E42E28B5F}
+		{673F4712-2E9F-43A3-8AD1-237DBCDCEA78} = {ED85A374-C5F1-4A7E-8BAF-42DB1FF728BA}
+		{8EC4F765-3F0A-4E67-8AED-9BCA4A9134F4} = {E2DBAA9A-41AC-485B-914E-021AC6DD7BBF}
+		{6B178713-FE12-4343-8EE4-4803178E4A19} = {589ABC92-3D5C-442A-8EE3-6F3F6D33C66B}
+		{D2807894-4A30-479D-AC23-122CF64D03B8} = {827AD63F-C54F-4FC9-84A9-858E42E28B5F}
+		{15F7365F-64BE-480E-AD94-05327A09F5E1} = {EEF0A02B-AE2A-4BFC-B833-6837A0AE946A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B5DE479-B797-4171-A12D-AA095F39DD04}
+	EndGlobalSection
+EndGlobal
