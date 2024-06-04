@@ -17,5 +17,9 @@
             Username = user.Username;
             Token = token;
         }
+
+        public AuthenticateResponse()
+        {
+        }
     }
 }

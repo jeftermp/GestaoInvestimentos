@@ -4,6 +4,6 @@ namespace GestaoInvestimentos.Services
 {
     public interface IUsuarioService
     {
-        AuthenticateResponse Authenticate(UserAuth model);
+        public AuthenticateResponse Authenticate(UserAuth model);
     }
 }

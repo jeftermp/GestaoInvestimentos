@@ -1,6 +1,7 @@
 using GestaoInvestimentos.Domain.Auth;
 using GestaoInvestimentos.Services;
 using GestaoInvestimentos.Services.Class;
+using Microsoft.EntityFrameworkCore.Query;
 using Microsoft.Extensions.Configuration;
 using Moq;
 
@@ -14,7 +15,8 @@ namespace GestaoInvestimentos.UT
         public AuthUnitTest()
         {
             _usuarioService = Mock.Of<IUsuarioService>();
-            var configBuilder = new ConfigurationBuilder();
+            var configBuilder = new ConfigurationBuilder()
+                .AddJsonFile("appsettings.API.json");
             _configuration = configBuilder.Build();
         }
 
@@ -22,11 +24,11 @@ namespace GestaoInvestimentos.UT
         public void Authenticate_ValidLogin_ReturnsOk()
         {
             ////Arrange
-            UsuarioService usuarioService = new UsuarioService(_configuration);
+            var usuarioService = new UsuarioService(_configuration);
             UserAuth validLogin = new UserAuth { Username = "useradim@hcor.com.br", Password = "123456789" };
 
             //// Act
-            AuthenticateResponse result = _usuarioService.Authenticate(validLogin);
+            var result = usuarioService.Authenticate(validLogin);
 
             //// Assert
             Assert.NotNull(result.Token);
@@ -36,14 +38,14 @@ namespace GestaoInvestimentos.UT
         public void Authenticate_InvalidLogin_ReturnsFalse()
         {
             //Arrange
-            //var authRepository = new AuthRepository(_conexaoOracle, _configuration);
-            //var validLogin = new LoginRequest { Login = "jmpeixoto", Password = "somepass" };
+            var usuarioService = new UsuarioService(_configuration);
+            UserAuth validLogin = new UserAuth { Username = "useradim@hcor.com.br", Password = "somepass" };
 
             //// Act
-            //var result = authRepository.LoginAd(validLogin);
+            var result = usuarioService.Authenticate(validLogin);
 
             //// Assert
-            //Assert.True(result.HasError);
+            Assert.Null(result.Token);
         }
     }
 }

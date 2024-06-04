@@ -38,7 +38,7 @@ namespace GestaoInvestimentos.Services.Class
                 return new AuthenticateResponse(user, token);
             }
 
-            else { return null; }
+            else { return new AuthenticateResponse(); }
         }
 
         private string generateJwtToken(Usuario user)
